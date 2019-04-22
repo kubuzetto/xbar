@@ -79,5 +79,5 @@ Sahin, Devrim. "A locality preserving one-sided binary tree - crossbar switch wi
 ```
 
 # License
-GPLv3.
+MIT.
 
