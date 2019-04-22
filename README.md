@@ -2,6 +2,8 @@
 
 Rust implementation of the algorithm described in the conference paper _"[A locality preserving one-sided binary tree - crossbar switch wiring design algorithm](https://ieeexplore.ieee.org/document/7086839)"_ published in [2015 49th Annual Conference on Information Sciences and Systems (CISS)](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7075844).
 
+![](example.png)
+
 > __One-sided crossbar switches__ allow for a simple implementation of complete `K_n` graphs. However, designing these circuits is a cumbersome process and can be automated.
 > We present an algorithm that allows designing automatic one-sided binary tree - crossbar switches which __do not exceed `floor(n/2)` columns__, and achieves `K_n` graph without connecting any wires between any three adjacent blocks, thus preserving locality in connections.
 
