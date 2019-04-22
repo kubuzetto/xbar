@@ -1,6 +1,6 @@
 [package]
 name = "xbar"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["kubuzetto"]
 description = "An iterator-based implementation of the locality-preserving one-sided binary tree - crossbar switch wiring design algorithm."
 repository = "https://github.com/kubuzetto/xbar"
