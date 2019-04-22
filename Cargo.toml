@@ -1,0 +1,23 @@
+[package]
+name = "xbar"
+version = "1.0.0"
+authors = ["kubuzetto"]
+description = "An iterator-based implementation of the locality-preserving one-sided binary tree - crossbar switch wiring design algorithm."
+repository = "https://github.com/kubuzetto/xbar"
+categories = ["algorithms"]
+keywords = ["crossbar", "circuit", "switch", "iterator"]
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
+
+[dev-dependencies]
+svg = "0.5.12"
+clap = "2.33.0"
+
+[lib]
+name = "xbar"
+
+[[example]]
+name = "svg_test"
+
